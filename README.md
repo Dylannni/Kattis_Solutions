@@ -1,5 +1,5 @@
 # Kattis_Solutions (Keeping update)
-Collection of Kattis solutions https://open.kattis.com/\
+Collection of [Kattis](https://open.kattis.com) solutions.\
 All solutions are categorised by diffculty\
 \
 if you have any questions or problems that want me to finish in Kattis.\
